@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+
+<h1>Student Details</h1>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Course</th>
+    </tr>
+    <tr>
+        <td>Anil</td>
+        <td>21</td>
+        <td>Java</td>
+    </tr>
+    <tr>
+        <td>Rahul</td>
+        <td>22</td>
+        <td>Full Stack</td>
+    </tr>
+</table>
+
+</body>
+</html>
