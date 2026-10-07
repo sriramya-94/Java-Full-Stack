@@ -1,0 +1,14 @@
+CREATE TABLE marks (
+    student_id INT,
+    marks INT
+);
+
+INSERT INTO marks VALUES
+(1, 85),
+(2, 90),
+(3, 78);
+
+SELECT students.name, marks.marks
+FROM students
+JOIN marks
+ON students.id = marks.student_id;
