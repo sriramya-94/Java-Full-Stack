@@ -1,0 +1,4 @@
+INSERT INTO students VALUES
+(1, 'Ramya', 21, 'Java'),
+(2, 'Harsha', 22, 'Java Full Stack'),
+(3, 'Anil', 20, 'Python');
