@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript DOM</title>
+</head>
+<body>
+
+<h1 id="title">Hello</h1>
+
+<button onclick="changeText()">Click Me</button>
+
+<script>
+function changeText() {
+    document.getElementById("title").innerHTML = "Welcome to JavaScript";
+}
+</script>
+
+</body>
+</html>
