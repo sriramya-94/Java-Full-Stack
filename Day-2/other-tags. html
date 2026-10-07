@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Tags</title>
+</head>
+<body>
+
+<p>This is a paragraph.</p>
+
+<b>Bold Text</b><br>
+<i>Italic Text</i><br>
+<u>Underlined Text</u><br>
+
+<hr>
+
+<p>Hello <strong>World</strong></p>
+
+</body>
+</html>
