@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Shopping Cart</h1>
+
+<p>Smartphone - ₹20,000</p>
+<p>Quantity: 1</p>
+<h3>Total: ₹20,000</h3>
+
+<button>Checkout</button>
+
+</body>
+</html>
