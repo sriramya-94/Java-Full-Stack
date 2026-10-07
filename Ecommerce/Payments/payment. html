@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Payment</h1>
+
+<p>Total Amount: ₹20,000</p>
+
+<button>Pay Now</button>
+
+</body>
+</html>
